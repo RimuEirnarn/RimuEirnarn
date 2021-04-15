@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RimuEirnarn
 - 👀 I’m interested in Programming, and Anime.
-- 🌱 I’m currently learning Python, C, Java.
+- 🌱 I’m currently learning Python, C, and Java.
 
 I'm Currently in:
 
