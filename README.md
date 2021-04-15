@@ -3,7 +3,9 @@
 - 🌱 I’m currently learning Python, C, Java.
 
 I'm Currently in:
+
 [Wattpad](https://wattpad.com/RimuEirnarn)
+
 [Instagram](https://instagram.com/rimu_eirnarn)
 
 <!---
