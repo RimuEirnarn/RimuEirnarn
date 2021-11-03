@@ -1,0 +1,38 @@
+/* Background */
+.default-background-color {
+    background-color: rgb(43, 42, 51, 1) !important;
+    color: rgb(219, 215, 215);
+}
+
+.shadow-box {
+    box-shadow: 5px;
+    border: 1px solid rgb(83, 83, 83);
+}
+
+.padded {
+    margin: 2px;
+    padding: 5px;
+}
+
+a {
+    text-decoration: none;
+}
+
+body {
+    font-family: sans-serif;
+    font-size: 24px;
+}
+
+.default-background-color-white {
+    background-color: rgb(196, 248, 255);
+    color:rgb(83, 83, 83);
+}
+
+.light_mode {
+    border: 1px solid black;
+    background-color: black;
+}
+
+.black_mode {
+    color: white;
+}
