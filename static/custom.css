@@ -36,3 +36,71 @@ body {
 .black_mode {
     color: white;
 }
+
+.greybox-outline {
+    text-decoration: underline;
+    text-underline-offset: 112%;
+}
+
+.header-text-smol {
+    border-left: 4px solid rgb(32, 25, 134);
+    text-decoration: solid;
+    color: gainsboro;
+    background-color: rgba(83, 83, 83, 0.507);
+    width: 25%;
+    padding: 4px;
+}
+
+.header-text-med {
+    border-left: 4px solid rgb(32, 25, 134);
+    text-decoration: solid;
+    color: gainsboro;
+    background-color: rgba(83, 83, 83, 0.507);
+    width: 50%;
+    padding: 4px;
+}
+
+.header-text-biig {
+    border-left: 4px solid rgb(32, 25, 134);
+    text-decoration: solid;
+    color: gainsboro;
+    background-color: rgba(83, 83, 83, 0.507);
+    width: 75%;
+    padding: 4px;
+}
+
+.header-text-all {
+    border-left: 4px solid rgb(32, 25, 134);
+    text-decoration: solid;
+    color: gainsboro;
+    background-color: rgba(83, 83, 83, 0.507);
+    padding: 4px;
+}
+
+.bordered {
+    border: 1px solid gray;
+}
+
+.sidebar-on-open {
+    width: 25%;
+    display: block;
+}
+
+@media (max-width: 768px) {
+.sidebar-on-open {
+    width: 40%;
+    display: block;
+}
+}
+
+.sidebar-close {
+    width: 0%;
+    display: none;
+}
+
+.socialmedia-box {
+    background-color: rgba(0, 0, 0, 0.493);
+    color:gainsboro;
+    padding: 8px;
+    width: fit-content;
+}
