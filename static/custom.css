@@ -14,7 +14,14 @@
     from {opacity: 1}
     to {opacity: 0; display: none}
 }
-    
+
+
+/* animate class */
+
+.init0 {
+    animation: init-0 500ms;
+}
+
 
 /* Background */
 .default-background-color {
