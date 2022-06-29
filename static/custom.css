@@ -10,6 +10,11 @@
     to {opacity: 1; display: block}
 }
 
+@keyframes init-1_ {
+    from {opacity:0}
+    to {opacity: 1}
+}
+
 @keyframes delete-0 { /* fadeout */
     from {opacity: 1}
     to {opacity: 0; display: none}
@@ -19,9 +24,12 @@
 /* animate class */
 
 .init0 {
-    animation: init-0 500ms;
+    animation: init-0 125ms;
 }
 
+.init1 {
+    animation: init-1_ 1s;
+}
 
 /* Background */
 .default-background-color {
