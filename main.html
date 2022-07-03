@@ -56,7 +56,7 @@
         <h5 class="header-text-all">Screen</h5>
         <div class="w3-container">
             <p>Screen width/height: <span id="debug_screen-wh"></span></p>
-            <button class="w3-button" value="detect" onclick="detect_screen()">detect</button>
+            <button class="w3-button" value="detect" onclick="detect_screen()">Detect</button>
         </div>
         <h5 class="header-text-all">Device</h5>
         <div class="w3-container">
@@ -71,12 +71,21 @@
             <p>Device Memory (in GB): <span id="debug_device-mem"></span></p>
             <hr>
             <h6 class="header-text-all">Battery</h6>
-            <p>Is charging: <span id="debug_battery-charge"></span></p>
-            <p>Charging time: <span id="debug_battery-ctime"></span></p>
-            <p>Discharge time: <span id="debug_battery-distime"></span></p>
-            <p>Level: <span id="debug_battery-level"></span></p>
-            <button class="w3-button" value="detect" onclick="detect_deviceinfo()">Detect</button>
+            <div class="w3-container">
+                <p>Is charging: <span id="debug_battery-charge"></span></p>
+                <p>Charging time: <span id="debug_battery-ctime"></span></p>
+                <p>Discharge time: <span id="debug_battery-distime"></span></p>
+                <p>Level: <span id="debug_battery-level"></span></p>
+            </div>
+            <hr>
+            <button class="w3-button" value="Detect" onclick="detect_deviceinfo()">Detect</button>
+            <hr>
+            <p>Alert textbox</p>
+            <textarea class="w3-input w3-border w3-black" placeholder="Alert textbox" id="alert-textbox"></textarea>
+            <br>
+            <button class="w3-button" value='Alert' onclick="alertf()">Alert</button>
         </div>
+        <br/>
     </div>
     <script type="text/javascript" src="static/sidebar.js"></script>
     <script type='text/javascript' src='static/debuginfo.js'></script>

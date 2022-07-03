@@ -43,3 +43,8 @@ async function detect_deviceinfo(){
     s11.innerText = batteryinfo.dischargingTime
     s12.innerText = batteryinfo.level
 }
+
+function alertf(){
+    s01 = document.getElementById("alert-textbox")
+    alert(s01.value)
+}
