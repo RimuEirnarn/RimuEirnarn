@@ -40,7 +40,7 @@
         <h6 class="header-text-all">Info</h6>
         <p>Hello, Unknown traveler! Welcome to my page. <span style="color:dimgray">(it should be better than the last one...)</span></pre>
 <p>I'm sorry, there's really nothing more than this.</p>
-<p>Ah, right! I'm RimuEirnarn. I lived somewhere else. In precise, Indonesia.</p>
+<p>Ah, right! I'm <span onclick="open_debug()" id="debug-open">RimuEirnarn</span>. I lived somewhere else. In precise, Indonesia.</p>
         <hr>
         <h6 class="header-text-all">Used language</h6>
         <ul>
@@ -49,6 +49,36 @@
         </ul>
         <div class="hiddenbox-0" id="mobile-bar"><div id='mobile-bar-content'></div></div> <!-- Replacement for sidebar for mobile -->
     </div>
+    <div class="w3-container hiddenbox-0" id="debugmenu">
+        <h4 class="header-text-all" id="debug-close" onclick="close_debug()">Debug menu</h4>
+        <!-- Add some button that will display some 'statistics' -->
+        <p><strong><span style='color:red'>DISCLAIMER</span>! All of these statistics are accessed through the browser API and i don't share these informations to any third parties. Only for yourself.</strong></p>
+        <h5 class="header-text-all">Screen</h5>
+        <div class="w3-container">
+            <p>Screen width/height: <span id="debug_screen-wh"></span></p>
+            <button class="w3-button" value="detect" onclick="detect_screen()">detect</button>
+        </div>
+        <h5 class="header-text-all">Device</h5>
+        <div class="w3-container">
+            <p>Do not track: <span id='debug_device-ddt'></span></p>
+            <p>User Agent: <span id="debug_device-ua"></span></p>
+            <p>OS: <span id="debug_device-os"></span></p>
+            <p>Language: <span id="debug_device-lang"></span></p>
+            <ul id="debug_device-langs"></ul>
+            <p>Cookie Enabled: <span id="debug_device-cookie"></span></p>
+            <p>Java Enabled: <span id="debug_device-java"></span></p>
+            <p>Device online: <span id="debug_device-online"></span></p>
+            <p>Device Memory (in GB): <span id="debug_device-mem"></span></p>
+            <hr>
+            <h6 class="header-text-all">Battery</h6>
+            <p>Is charging: <span id="debug_battery-charge"></span></p>
+            <p>Charging time: <span id="debug_battery-ctime"></span></p>
+            <p>Discharge time: <span id="debug_battery-distime"></span></p>
+            <p>Level: <span id="debug_battery-level"></span></p>
+            <button class="w3-button" value="detect" onclick="detect_deviceinfo()">Detect</button>
+        </div>
+    </div>
     <script type="text/javascript" src="static/sidebar.js"></script>
+    <script type='text/javascript' src='static/debuginfo.js'></script>
 </body>
 </html>
