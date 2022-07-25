@@ -1,14 +1,8 @@
 # About Me
 
-- 👋 Hi, I’m @RimuEirnarn
-- 👀 I’m interested in Programming, Games, and Anime.
-- 🌱 I’m currently learning Python and C
+RimuEirnarn/ArchaentNakasaki is a young person that learns to code and writing. They like games and certain animes.
 
-I'm Currently in:
-
-[Wattpad](https://wattpad.com/RimuEirnarn)
-
-[Instagram](https://instagram.com/rimu_eirnarn)
+As they're wandering outside, they shall back with bliss.
 
 <!---
 RimuEirnarn/RimuEirnarn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
