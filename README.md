@@ -1,12 +1,15 @@
-- 👋 Hi, I’m @RimuEirnarn
-- 👀 I’m interested in Programming, and Anime.
-- 🌱 I’m currently learning Python, C, and Java.
+# About Me
 
-I'm Currently in:
+RimuEirnarn/ArchaentNakasaki is a young person that learns to code and writing. They like games and certain animes.
 
-[Wattpad](https://wattpad.com/RimuEirnarn)
+As they're wandering outside, they shall back with bliss.
 
-[Instagram](https://instagram.com/rimu_eirnarn)
+## Statistics
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=RimuEirnarn&show_icons=true&theme=tokyonight&count_private=true" alt="RimuEirnarn's Statistics (01)"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RimuEirnarn&layout=compact" alt="Language used"/>
+</div>
 
 <!---
 RimuEirnarn/RimuEirnarn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
