@@ -8,7 +8,7 @@ As they're wandering outside, they shall back with bliss.
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=RimuEirnarn&show_icons=true&theme=tokyonight&count_private=true" alt="RimuEirnarn's Statistics (01)"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RimuEirnarn&layout=compact" alt="Language used"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RimuEirnarn&layout=compact&theme=tokyonight" alt="Language used"/>
 </div>
 
 <!---
