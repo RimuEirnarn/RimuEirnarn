@@ -142,12 +142,16 @@ body {
     width: fit-content;
 }
 
+.hidden {
+    display: none;
+}
+
 .hiddenbox-0 {
-    animation: delete-0 500ms;
+    animation: delete-0 250ms;
     display: none;
 }
 
 .hiddenbox-1 {
-    animation: init-1 500ms;
+    animation: init-1 250ms;
     display: block;
 }
