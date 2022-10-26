@@ -1,4 +1,5 @@
 # About Me
+## Introduction (and a note)
 
 RimuEirnarn/ArchaentNakasaki is a young person that learns to code and writing. They like games and certain animes.
 
