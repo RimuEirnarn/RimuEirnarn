@@ -21,7 +21,7 @@ async function sleep(time) {
 }
 
 async function __beta_popup() {
-    sleep(0.2)
+    await sleep(0.2)
 }
 
 // To Be Added
