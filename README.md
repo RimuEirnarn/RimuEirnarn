@@ -7,8 +7,6 @@ RimuEirnarn/ArchaentNakasaki is a young person that learns to code and writing. 
 
 As they're wandering outside, they shall back with bliss.
 
-## Statistics
-
 **Note**: I'm a first year vocational highschool student (roughly translated), so i may not be able to respond quickly or make some good code.
 
 ## Statistics
