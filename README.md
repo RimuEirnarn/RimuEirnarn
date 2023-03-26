@@ -16,7 +16,7 @@ As they're wandering outside, they shall back with bliss.
   <img src="https://github-readme-stats-rimueirnarn.vercel.app/api/top-langs/?username=RimuEirnarn&layout=compact&theme=tokyonight&langs_count=6" alt="Language used"/>
 </div>
 
-**Notice**: If you see "JavaScript" domating the statistic, it's a lie.
+**Notice**: If you see "JavaScript" dominating the statistic, it's a lie.
 
 <!---
 RimuEirnarn/RimuEirnarn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
