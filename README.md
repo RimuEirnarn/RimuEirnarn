@@ -2,7 +2,7 @@
 
 ## Introduction (and a note)
 
->RimuEirnarn/ArchaentNakasaki is a young person that learns to code and write. They like games and certain animes.
+RimuEirnarn/ArchaentNakasaki is a young person that learns to code and write. They like games and certain animes.
 
 As they're wandering outside, they shall back with bliss.
 
