@@ -2,7 +2,7 @@
 
 ## Introduction (and a note)
 
-RimuEirnarn/ArchaentNakasaki is a young person that learns to code and write. They like games and certain animes.
+>RimuEirnarn/ArchaentNakasaki is a young person that learns to code and write. They like games and certain animes.
 
 As they're wandering outside, they shall back with bliss.
 
@@ -25,3 +25,10 @@ As they're wandering outside, they shall back with bliss.
 RimuEirnarn/RimuEirnarn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+<!--
+<div style="display: none !important;">
+<h3>Miscellaneous</h3>
+<p>Huh, using less and less emojis is best? let's see how long i will not use too much emojis in this year.</p>
+</div>
+-->
