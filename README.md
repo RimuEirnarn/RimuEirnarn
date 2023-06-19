@@ -10,10 +10,10 @@ As they're wandering outside, they shall back with bliss.
 
 ## Statistics
 
-<div align="left">
+<div align="left" style="height: 80%; width: 80%">
   <img src="https://github-readme-stats-rimueirnarn.vercel.app/api?username=RimuEirnarn&show_icons=true&theme=tokyonight&count_private=true" alt="RimuEirnarn's Statistics (01)"/>
   <img src="https://github-readme-stats-rimueirnarn.vercel.app/api/top-langs/?username=RimuEirnarn&layout=compact&theme=tokyonight&langs_count=6" alt="Language used"/>
-  <img src="https://streak-stats.demolab.com?user=RimuEirnarn&theme=tokyonight&locale=en" alt="Contributions, etc.">
+  <img src="https://streak-stats.demolab.com?user=RimuEirnarn&theme=tokyonight&fire=EB5454&currStreakNum=EB5454&sideNums=37EB2D" alt="Contributions, etc.">
   </p>
 </div>
 
