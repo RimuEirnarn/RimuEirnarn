@@ -4,19 +4,17 @@
 
 RimuEirnarn/ArchaentNakasaki is a young person that learns to code and write. They like games and certain animes.
 
-As they're wandering outside, they shall back with bliss.
-
 **Note**: I'm a first-year vocational high school student (roughly translated), so I may not be able to respond quickly or make some good code.
 
 ### Language Preferred
 
-My native languge is Indonesian but I can use English! Feel free to contact me using either of these languages
+My native language is Indonesian but I can use English! Feel free to contact me using either of these languages
 
-For programming language, i prefer using Python. Expect of oddity when i code.
+For programming language, I prefer using Python. Expect oddity when I code.
 
 ### Preference/About and Social Media
 
-I live in my chaotic fantasy realm[^1]. I know my surroundings so I live in both worlds. Either way, I'm active in my life without many intervention of other people. I had school to do but it isn't too rough for now.
+I live in my chaotic fantasy realm[^1]. I know my surroundings so I live in both worlds. Either way, I'm active in my life without any intervention from other people. I had school to do but it isn't too rough for now.
 
 In that sense, I am on discord (\@rimueirnarn), instagram ([\@RimuEirnarn](https://instagram.com/RimuEirnarn)), and twitter ([\@RimuEirnarn](https://twitter.com/RimuEirnarn))
 
@@ -47,6 +45,6 @@ You can click the Preview link to take a look at your changes.
 <!--
 <div style="display: none !important;">
 <h3>Miscellaneous</h3>
-<p>Huh, using less and less emojis is best? let's see how long i will not use too much emojis in this year.</p>
+<p>Huh, using fewer and fewer emojis is best? let's see how long I will not use too many emojis this year.</p>
 </div>
 -->
