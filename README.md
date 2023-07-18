@@ -4,7 +4,7 @@
 
 RimuEirnarn/ArchaentNakasaki is a young person that learns to code and write. They like games and certain animes.
 
-**Note**: I'm a first-year vocational high school student (roughly translated), so I may not be able to respond quickly or make some good code.
+**Note**: I'm a second-year vocational high school student (roughly translated), so I may not be able to respond quickly or make some good code.
 
 ### Language Preferred
 
