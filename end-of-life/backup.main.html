@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en-US">
+
+<head>
+    <title>Rimu Eirnarn</title>
+    <meta charset="UTF-8">
+    <meta content='Rimu Eirnarn' name='author'>
+    <link rel='stylesheet' href='static/custom.css'>
+    <link rel='stylesheet' href='static/w3.css'>
+    <link rel='stylesheet' href='static/w3pro.css'>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+</head>
+
+<body class="default-background-color init1">
+    <!-- Alright, let's do this! -->
+    <div id="sidebar" class="w3-sidebar w3-container w3-dark-green" style="width: 0%; display: none;">
+        <h4 class="header-text-all" id="sidebar-counter">Sidebar</h4>
+        <p><i class='fa fa-home'></i><a href="main.html" class="w3-white">Home</a></p>
+        <p><a href="carded-page.html">Carded version</a></p>
+        <span class="w3-red" onclick="undefined">Light mode is not supported</span>
+        <p style="color:dimgray; display: none;" id="swc"></p>
+        <div class="w3-display-bottommiddle" id="sidebar-watermark"><span>Sidebar v0.2</span></div>
+    </div>
+    <br />
+    <div class="w3-container" style="margin-left: 0%" id="main"> <!-- main content-->
+        <p></p>
+        <div class="w3-padding w3-dark-teal bordered" id="box-heading">
+            <img src='static/new-profile.jpeg' height='64px' width="64px" onclick="open_wc_sidebar()" id="sidebar-key" style='margin-bottom: 5px; top: -35px !important; position: relative' class="w3-circle bordered shadowed" alt='profile picture'/>
+            <br />
+            <h4 class="size" style="top: -15px; position: relative"><strong>RimuEirnarn</strong> -- <span class="w3-text-grey">Young wanderer</span></p></h4>
+            <p style="color:gray; position: relative; top: -25px;"><i>"A young wanderer, seeks through the life. The adventure they follow, every new people they met. It shall shape their mind for good."</i></p>
+            <div class="socialmedia-box" style="position: relative; top: -10px">
+                <a href='https://instagram.com/rimu_eirnarn'><img src="https://instagram.com/favicon.ico" height="24px" width="24px" /> &nbsp;</a>
+                <a href="https://twitter.com/RimuEirnarn"><img src="https://twitter.com/favicon.ico" height='24px' width='24px'> &nbsp;</a>
+                <a href='https://wattpad.com/RimuEirnarn'><img src="https://wattpad.com/favicon.ico" height="24px" width="24px" /> &nbsp;</a>
+                <a href='https://github.com/RimuEirnarn'><img src="https://github.com/favicon.ico" height="24px" width="24px" /></a>
+            </div>
+            <!--button class="w3-button w3-dark-teal bordered w3-right" onclick="open_wc_sidebar()" id="sidebar-key">&#9776;</button-->
+        </div>
+        <br>
+        <h6 class="header-text-all">Info</h6>
+            <p>I'm <span onclick="open_debug()" id="debug-open">RimuEirnarn</span>. I lived somewhere else. In precise, Indonesia.</p>
+        <hr>
+        <h6 class="header-text-all">Used language</h6>
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RimuEirnarn&layout=compact&theme=tokyonight" alt="Language used"/>
+    </div>
+    <div class="w3-container hiddenbox-0" id="debugmenu">
+        <h4 class="header-text-all" id="debug-close" onclick="close_debug()">Debug menu</h4>
+        <!-- Add some button that will display some 'statistics' -->
+        <p><strong><span style='color:red'>DISCLAIMER</span>! All of these statistics are accessed through the browser API and i don't share these informations to any third parties. Only for yourself.</strong></p>
+        <h5 class="header-text-all">Screen</h5>
+        <div class="w3-container">
+            <p>Screen width/height: <span id="debug_screen-wh"></span></p>
+            <button class="w3-button" value="detect" onclick="detect_screen()">Detect</button>
+        </div>
+        <h5 class="header-text-all">Device</h5>
+        <div class="w3-container">
+            <p>Do not track: <span id='debug_device-ddt'></span></p>
+            <p>User Agent: <span id="debug_device-ua"></span></p>
+            <p>OS: <span id="debug_device-os"></span></p>
+            <p>Language: <span id="debug_device-lang"></span></p>
+            <ul id="debug_device-langs"></ul>
+            <p>Cookie Enabled: <span id="debug_device-cookie"></span></p>
+            <p>Java Enabled: <span id="debug_device-java"></span></p>
+            <p>Device online: <span id="debug_device-online"></span></p>
+            <p>Device Memory (in GB): <span id="debug_device-mem"></span></p>
+            <hr>
+            <h6 class="header-text-all">Battery</h6>
+            <div class="w3-container">
+                <p>Is charging: <span id="debug_battery-charge"></span></p>
+                <p>Charging time: <span id="debug_battery-ctime"></span></p>
+                <p>Discharge time: <span id="debug_battery-distime"></span></p>
+                <p>Level: <span id="debug_battery-level"></span></p>
+            </div>
+            <hr>
+            <button class="w3-button" value="Detect" onclick="detect_deviceinfo()">Detect</button>
+            <hr>
+            <p>Alert textbox</p>
+            <textarea class="w3-input w3-border w3-black" placeholder="Alert textbox" id="alert-textbox"></textarea>
+            <br>
+            <button class="w3-button" value='Alert' onclick="alertf()">Alert</button>
+        </div>
+        <br/>
+    </div>
+    <script type="text/javascript" src="static/main.js"></script>
+    <script type='text/javascript' src='static/debuginfo.js'></script>
+</body>
+</html>
