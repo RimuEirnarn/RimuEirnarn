@@ -6,6 +6,8 @@ RimuEirnarn/ArchaentNakasaki is a young person that learns to code and write. Th
 
 **Note**: I'm a second-year vocational high school student (roughly translated), so I may not be able to respond quickly or make some good code.
 
+**Update**: For some reason, (probably due to how my school goes) i became more inactive, if any of your messages and emails did not get replied, i'm still busy at this moment. Never expect any quick replies.
+
 ### Language Preferred
 
 My native language is Indonesian but I can use English! Feel free to contact me using either of these languages
