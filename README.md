@@ -2,7 +2,7 @@
 
 ## Introduction (and a note)
 
-I'm RimuEirnarn or sometimes RimuAerisya. I set sail to embark my journey of Web Development, Game Development, and Programming in general.
+I'm RimuEirnarn or sometimes RimuAerisya (you can call me Rimu). I set sail to embark my journey of Web Development, Game Development, and Programming in general.
 
 **Note**: I'm a second-year vocational high school student, so I may not be able to respond quickly or craft some decent code.
 
