@@ -1,0 +1,14 @@
+{
+    "name": "Rimu Eirnarn",
+    "alias": "Rimu Aerisya",
+    "yandere": true,
+    "gender": null, // why you should care anyway?
+    "data": [23, 22, 343, 120, 282, 54, 3247, 810, 835, 56, 72, 24, 10, 4, 9, 63, 13, "RA", 9999, 830, 5628, 9238, 5622, 5, "SG24", 824, 333, 9272, 10001],
+    "supports": ["Indonesia", "Palestine"],
+    "dislike": [],
+    "likes": [],
+    "hates": [],
+    "loves": ["euid::na"],
+    "data.coauthored": null,
+    "math.prove": "f(x) = x / Atk(50%) + Def(50%); Atk = 42, Def = 10, x = 40"
+}
