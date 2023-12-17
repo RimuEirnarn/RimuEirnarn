@@ -1,6 +1,4 @@
-# About Me
-
-## Introduction
+### Introduction
 
 Rimu Aerisya/Rimu Eirnarn.
 
