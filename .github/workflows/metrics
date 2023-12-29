@@ -1,0 +1,42 @@
+name: Metrics
+on:
+  # Schedule daily updates
+  schedule: [{cron: "0 0 * * *"}]
+  # (optional) Run workflow manually
+  workflow_dispatch:
+  # (optional) Run workflow when pushing on master/main
+  push: {branches: ["master", "main"]}
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    environment: 
+      name: METRICS
+    permissions:
+      contents: write
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: profile.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          output_action: gist
+          committer_gist: ${{ secrets.GIST_ID }}
+          config_timezone: Asia/Jakarta
+          base_indepth: yes
+          config_order: base.header
+          plugin_traffic: yes
+          optimize: css, xml
+      
+      - uses: lowlighter/metrics@latest
+        with:
+          plugin_languages: yes
+          plugin_languages_indepth: yes
+          plugin_languages_details: lines, bytes-size, percentage
+          plugin_languages_sections: most-used, recently-used
+          plugin_languages_indepth: yes
+          plugin_languages_limit: 8
+          filename: languages.svg
+          output_action: gist
+          committer_gist: ${{ secrets.GIST_ID }}
+          token: ${{ secrets.METRICS_TOKEN }}
+          config_timezone: Asia/Jakarta
+          base: languages
