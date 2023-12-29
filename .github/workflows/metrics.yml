@@ -17,7 +17,7 @@ jobs:
       - uses: lowlighter/metrics@latest
         with:
           filename: profile.svg
-          token: ${{ secrets.METRICS_TOKEN }}
+          token: ${{ secrets.METRICT_TOKEN }}
           output_action: gist
           committer_gist: ${{ secrets.GIST_ID }}
           config_timezone: Asia/Jakarta
@@ -36,6 +36,6 @@ jobs:
           filename: languages.svg
           output_action: gist
           committer_gist: ${{ secrets.GIST_ID }}
-          token: ${{ secrets.METRICS_TOKEN }}
+          token: ${{ secrets.METRICT_TOKEN }}
           config_timezone: Asia/Jakarta
           base: languages
