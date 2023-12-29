@@ -4,6 +4,17 @@ Rimu Aerisya/Rimu Eirnarn.
 
 Self-proclaimed programmer and "cute things" enthusiast.
 
+<table>
+  <tr>
+    <td width=395>
+      <img width="395" alt="metrics-profile" src="https://gist.githubusercontent.com/RimuEirnarn/31830b25b9d88dfc1b33d87536cd0fad/raw/028e893b7325a40f6dde20eb05945f45116a134a/profile.svg" />
+    </td>
+    <td width=395>
+      <img width="395" alt='metrics-language' src="https://gist.githubusercontent.com/RimuEirnarn/31830b25b9d88dfc1b33d87536cd0fad/raw/028e893b7325a40f6dde20eb05945f45116a134a/languages.svg">
+    </td>
+  </tr>
+</table>
+
 <!--
 I'm RimuEirnarn or sometimes RimuAerisya (you can call me Rimu). I set sail to embark my journey of Web Development, Game Development, and Programming in general.
 
@@ -41,8 +52,6 @@ I am on discord (\@rimueirnarn), instagram ([\@RimuEirnarn](https://instagram.co
 **Notice**: If you see "JavaScript" dominating the statistic, it's a lie.
 
 ### Account Statistic
-
-![Account Stat](https://metrics.lecoq.io/RimuEirnarn?template=classic&config.timezone=Asia%2FJakarta)
 
 [![](https://visitcount.itsvg.in/api?id=RimuEirnarn&label=Profile%20Views&color=1&icon=2&pretty=true)](https://visitcount.itsvg.in)
 
