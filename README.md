@@ -47,6 +47,11 @@ I am on discord (\@rimueirnarn), instagram ([\@RimuEirnarn](https://instagram.co
   <img src="https://github-readme-stats-rimueirnarn.vercel.app/api/top-langs/?username=RimuEirnarn&layout=compact&theme=tokyonight&langs_count=6" alt="Language used"/>
   <img src="https://streak-stats.demolab.com?user=RimuEirnarn&theme=tokyonight&fire=EB5454&currStreakNum=EB5454&sideNums=37EB2D" alt="Contributions, etc.">
   </p>
+  <details>
+    <summary>If for some reason the table wasn't really big:</summary>
+  <img alt="metrics-profile" src="https://gist.githubusercontent.com/RimuEirnarn/31830b25b9d88dfc1b33d87536cd0fad/raw/profile.svg" />
+  <img width="395" alt='metrics-language' src="https://gist.githubusercontent.com/RimuEirnarn/31830b25b9d88dfc1b33d87536cd0fad/raw/languages.svg">
+  </details>
 </div>
 
 **Notice**: If you see "JavaScript" dominating the statistic, it's a lie.
@@ -69,3 +74,4 @@ You can click the Preview link to take a look at your changes.
 <p>Huh, using fewer and fewer emojis is best? let's see how long I will not use too many emojis this year.</p>
 </div>
 -->
+ 
