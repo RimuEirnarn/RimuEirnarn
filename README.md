@@ -7,10 +7,10 @@ Self-proclaimed programmer and "cute things" enthusiast.
 <table>
   <tr>
     <td width=395>
-      <img width="395" alt="metrics-profile" src="https://gist.githubusercontent.com/RimuEirnarn/31830b25b9d88dfc1b33d87536cd0fad/raw/028e893b7325a40f6dde20eb05945f45116a134a/profile.svg" />
+      <img width="395" alt="metrics-profile" src="https://gist.githubusercontent.com/RimuEirnarn/31830b25b9d88dfc1b33d87536cd0fad/raw/profile.svg" />
     </td>
     <td width=395>
-      <img width="395" alt='metrics-language' src="https://gist.githubusercontent.com/RimuEirnarn/31830b25b9d88dfc1b33d87536cd0fad/raw/028e893b7325a40f6dde20eb05945f45116a134a/languages.svg">
+      <img width="395" alt='metrics-language' src="https://gist.githubusercontent.com/RimuEirnarn/31830b25b9d88dfc1b33d87536cd0fad/raw/languages.svg">
     </td>
   </tr>
 </table>
