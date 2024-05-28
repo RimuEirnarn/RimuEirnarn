@@ -4,17 +4,6 @@ Rimu Aerisya/Rimu Eirnarn.
 
 Self-proclaimed programmer and "cute things" enthusiast.
 
-<table>
-  <tr>
-    <td width=395>
-      <img width="395" alt="metrics-profile" src="https://gist.githubusercontent.com/RimuEirnarn/31830b25b9d88dfc1b33d87536cd0fad/raw/profile.svg" />
-    </td>
-    <td width=395>
-      <img width="395" alt='metrics-language' src="https://gist.githubusercontent.com/RimuEirnarn/31830b25b9d88dfc1b33d87536cd0fad/raw/languages.svg">
-    </td>
-  </tr>
-</table>
-
 PS: I have Genshin Impact, Honkai: Star Rail, and Wuthering Waves accounts~ Add me to your friend list if you wish~
 
 | Game Name           | UID         | Server |
@@ -58,19 +47,15 @@ Aside of that, i'm in [@Roris Värdshus](https://github.com/Roris-Vardshus) and 
 <br>
 <div align="left" style="height: 80%; width: 80%">
   <img src="https://github-readme-stats-rimueirnarn.vercel.app/api?username=RimuEirnarn&show_icons=true&theme=tokyonight&count_private=true" alt="RimuEirnarn's Statistics (01)"/>
-  <img src="https://github-readme-stats-rimueirnarn.vercel.app/api/top-langs/?username=RimuEirnarn&layout=compact&theme=tokyonight&langs_count=6" alt="Language used"/>
+  <!--img src="https://github-readme-stats-rimueirnarn.vercel.app/api/top-langs/?username=RimuEirnarn&layout=compact&theme=tokyonight&langs_count=6" alt="Language used"/-->
   <img src="https://streak-stats.demolab.com?user=RimuEirnarn&theme=tokyonight&fire=EB5454&currStreakNum=EB5454&sideNums=37EB2D" alt="Contributions, etc.">
   </p>
-  <details>
-    <summary>If for some reason the table wasn't really big:</summary>
+  
   <img alt="metrics-profile" src="https://gist.githubusercontent.com/RimuEirnarn/31830b25b9d88dfc1b33d87536cd0fad/raw/profile.svg" />
   <img width="395" alt='metrics-language' src="https://gist.githubusercontent.com/RimuEirnarn/31830b25b9d88dfc1b33d87536cd0fad/raw/languages.svg">
-  </details>
 </div>
 
-### Account Statistic
-
-[![Profile Views](https://visitcount.itsvg.in/api?id=RimuEirnarn&label=Profile%20Views&color=1&icon=2&pretty=true)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=RimuEirnarn&label=Profile%20Reads&color=6&icon=2&pretty=true)](https://visitcount.itsvg.in)
 
 </details>
 
