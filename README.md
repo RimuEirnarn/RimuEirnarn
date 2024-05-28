@@ -74,7 +74,13 @@ Aside of that, i'm in [@Roris Värdshus](https://github.com/Roris-Vardshus) and 
 
 </details>
 
+<!--
+<div align=right>
+<img alt="Venti" src="https://github.com/RimuEirnarn/RimuEirnarn/raw/main/public/venti-chibi.webp" style="" width=120 height=120>
+<img alt="Furina" src="https://github.com/RimuEirnarn/RimuEirnarn/raw/main/public/furina-chibi.webp" style="" width=240 height=240>
+</div>
 
+-->
 <!---
 RimuEirnarn/RimuEirnarn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
