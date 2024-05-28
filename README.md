@@ -47,7 +47,9 @@ For programming language, I prefer using Python.
 
 ### Social Media
 
-I am on discord (\@rimueirnarn), instagram ([\@RimuEirnarn](https://instagram.com/RimuEirnarn)), and twitter ([\@RimuEirnarn](https://twitter.com/RimuEirnarn)).
+- Discord: (\@rimueirnarn)
+- Instagram: ([\@RimuEirnarn](https://instagram.com/RimuEirnarn))
+- Twitter: ([\@RimuEirnarn](https://twitter.com/RimuEirnarn)).
 
 Aside of that, i'm in [@Roris Värdshus](https://github.com/Roris-Vardshus) and [@NekoRisya](https://github.com/NekoRisya).
 
@@ -65,8 +67,6 @@ Aside of that, i'm in [@Roris Värdshus](https://github.com/Roris-Vardshus) and 
   <img width="395" alt='metrics-language' src="https://gist.githubusercontent.com/RimuEirnarn/31830b25b9d88dfc1b33d87536cd0fad/raw/languages.svg">
   </details>
 </div>
-
-**Notice**: If you see "JavaScript" dominating the statistic, it's a lie.
 
 ### Account Statistic
 
