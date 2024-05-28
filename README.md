@@ -15,6 +15,14 @@ Self-proclaimed programmer and "cute things" enthusiast.
   </tr>
 </table>
 
+PS: I have Genshin Impact, Honkai: Star Rail, and Wuthering Waves accounts~ Add me to your friend list if you wish~
+
+| Game Name           | UID         | Server |
+|-------------------	|------------	|------- |
+| Genshin Impact    	| 892011434 	| Asia   |
+| Honkai: Star Rail 	| 831149528 	| Asia   |
+| Wuthering Waves   	| 900442155 	| SEA    |
+
 <!--
 I'm RimuEirnarn or sometimes RimuAerisya (you can call me Rimu). I set sail to embark my journey of Web Development, Game Development, and Programming in general.
 
