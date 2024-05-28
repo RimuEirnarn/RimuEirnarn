@@ -34,7 +34,9 @@ I'm RimuEirnarn or sometimes RimuAerisya (you can call me Rimu). I set sail to e
 
 ### Language Preferred
 
-Indonesian, English, and Python.
+- 🇮🇩 Indonesia
+- English
+- 🐍 Python!
 
 <!-- 
 My native language is Indonesian but I can use English. Feel free to contact me using either of these languages.
