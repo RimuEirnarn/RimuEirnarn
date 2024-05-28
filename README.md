@@ -37,7 +37,9 @@ For programming language, I prefer using Python.
 
 ### Social Media
 
-I am on discord (\@rimueirnarn), instagram ([\@RimuEirnarn](https://instagram.com/RimuEirnarn)), and twitter ([\@RimuEirnarn](https://twitter.com/RimuEirnarn))
+I am on discord (\@rimueirnarn), instagram ([\@RimuEirnarn](https://instagram.com/RimuEirnarn)), and twitter ([\@RimuEirnarn](https://twitter.com/RimuEirnarn)).
+
+Aside of that, i'm in [@Roris Värdshus](https://github.com/Roris-Vardshus) and [@NekoRisya](https://github.com/NekoRisya).
 
 <details>
 <summary><strong>Statistic (and account statistic)</strong></summary>
@@ -58,7 +60,7 @@ I am on discord (\@rimueirnarn), instagram ([\@RimuEirnarn](https://instagram.co
 
 ### Account Statistic
 
-[![](https://visitcount.itsvg.in/api?id=RimuEirnarn&label=Profile%20Views&color=1&icon=2&pretty=true)](https://visitcount.itsvg.in)
+[![Profile Views](https://visitcount.itsvg.in/api?id=RimuEirnarn&label=Profile%20Views&color=1&icon=2&pretty=true)](https://visitcount.itsvg.in)
 
 </details>
 
