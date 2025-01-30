@@ -2,7 +2,7 @@
     "name": "Rimu Eirnarn",
     "alias": "Rimu Aerisya",
     "gender": null, // why you should care anyway?
-    "data": [13, 06, "RA", "S2019"],
+    "data": [13, 6, "RA", "S2019"],
     "supports": ["Indonesia", "Palestine"],
     "dislike": ["<redacted>", "<redacted>"],
     "likes": ["glob::cute/*"],
