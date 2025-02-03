@@ -4,15 +4,6 @@ Rimu Aerisya/Rimu Eirnarn.
 
 Self-proclaimed programmer and "cute things" enthusiast. Currently a third year vocational highschool student.
 
-<!--
-I'm RimuEirnarn or sometimes RimuAerisya (you can call me Rimu). I set sail to embark my journey of Web Development, Game Development, and Programming in general.
-
-**Note**: I'm a second-year vocational high school student, so I may not be able to respond quickly or craft some decent code.
-
-**Update**: For some reason, (probably due to how my school goes) i became more inactive, if any of your messages and emails did not get replied even in particularly long time (for example, 4 weeks), i'm still busy at this moment. Thanks for understanding.
-
--->
-
 ### Language Preferred
 
 - 🇮🇩 Indonesia
