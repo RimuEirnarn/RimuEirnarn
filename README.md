@@ -10,12 +10,6 @@ Self-proclaimed programmer and "cute things" enthusiast. Currently a third year 
 - English
 - 🐍 Python!
 
-<!-- 
-My native language is Indonesian but I can use English. Feel free to contact me using either of these languages.
-
-For programming language, I prefer using Python.
-
--->
 
 ### Social Media
 
