@@ -47,11 +47,3 @@ Aside of that, i'm in [@Roris Värdshus](https://github.com/Roris-Vardshus) and 
 RimuEirnarn/RimuEirnarn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
-<!--
-<div style="display: none !important;">
-<h3>Miscellaneous</h3>
-<p>Huh, using fewer and fewer emojis is best? let's see how long I will not use too many emojis this year.</p>
-</div>
--->
- 
