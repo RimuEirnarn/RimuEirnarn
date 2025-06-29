@@ -7,5 +7,5 @@
     "likes": ["glob::cute/*"],
     "hates": [],
     "loves": [],
-    "math.prove": "f(x) = x & 2"
+    "math.prove": "f(x) = f(x)"
 }
