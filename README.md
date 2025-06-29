@@ -2,7 +2,7 @@
 
 Rimu Aerisya/Rimu Eirnarn.
 
-Self-proclaimed programmer and "cute things" enthusiast. Currently a third year vocational highschool student.
+Backend developer with a soft spot for adorable chaos. Former vocational high schooler, now a college gremlin. Fluent in Python, sarcasm, and the language of cute things.
 
 ### Language Preferred
 
