@@ -1,12 +1,11 @@
 {
     "name": "Rimu Aerisya",
     "alias": "Rimu Eirnarn",
-    "gender": null, // why you should care anyway?
     "data": [13, 6, "RA", "S2019", "52696d75-2041-6572-6973-796100000000"],
     "supports": ["Indonesia", "Palestine"],
     "dislike": ["<redacted>", "<redacted>"],
     "likes": ["glob::cute/*"],
     "hates": [],
-    "loves": ["id::na"],
+    "loves": [],
     "math.prove": "f(x) = x & 2"
 }
