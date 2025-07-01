@@ -31,9 +31,6 @@ Aside of that, i'm in [@Roris Värdshus](https://github.com/Roris-Vardshus) and 
   <img alt="metrics-profile" src="https://gist.githubusercontent.com/RimuEirnarn/31830b25b9d88dfc1b33d87536cd0fad/raw/profile.svg" />
   <img width="395" alt='metrics-language' src="https://gist.githubusercontent.com/RimuEirnarn/31830b25b9d88dfc1b33d87536cd0fad/raw/languages.svg">
 </div>
-
-[![](https://visitcount.itsvg.in/api?id=RimuEirnarn&label=Profile%20Reads&color=6&icon=2&pretty=true)](https://visitcount.itsvg.in)
-
 </details>
 
 
