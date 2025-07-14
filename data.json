@@ -7,5 +7,6 @@
     "likes": ["glob::cute/*"],
     "hates": [],
     "loves": [],
-    "math.prove": "f(x) = f(x)"
+    "math.prove": "f(x) = f(x)",
+    "note": ["https://github.com/RimuEirnarn/RimuEirnarn/blob/main/msg.txt", "https://github.com/RimuEirnarn/RimuEirnarn/raw/refs/heads/main/msg.txt"]
 }
