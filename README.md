@@ -17,8 +17,6 @@ Backend developer with a soft spot for adorable chaos. Former vocational high sc
 - Instagram: ([\@RimuEirnarn](https://instagram.com/RimuEirnarn))
 - Twitter: ([\@RimuEirnarn](https://twitter.com/RimuEirnarn)).
 
-Aside of that, i'm in [@Roris Värdshus](https://github.com/Roris-Vardshus) and [@NekoRisya](https://github.com/NekoRisya).
-
 <details>
 <summary><strong>Statistic (and account statistic)</strong></summary>
 <br>
