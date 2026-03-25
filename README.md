@@ -13,7 +13,7 @@ Backend developer with a soft spot for adorable chaos. Former vocational high sc
 
 ### Social Media
 
-- Discord: (\@rimueirnarn)
+- Discord: (\@rimueirnarn) / https://discord.gg/U5y5XcdKG8
 - Instagram: ([\@RimuEirnarn](https://instagram.com/RimuEirnarn))
 - Twitter: ([\@RimuEirnarn](https://twitter.com/RimuEirnarn)).
 
