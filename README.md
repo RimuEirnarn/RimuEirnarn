@@ -37,26 +37,7 @@ Backend developer with a soft spot for adorable chaos. Former vocational high sc
   <hr style='position: translateX(-2rem);'>
 </div>
 
-<details>
-<summary><strong>Open if you're curious~</strong></summary>
-
-```python
-from world import *
-
-@immediate
-def main():
-  me = Existence("Rimu Aerisya")
-  you = Existence.get(Reader)
-
-  me.say("Hello, to this world")
-  me.say("When our Path converge, would you tell me your stories?")
-  me.hope(you, callback=you.confide)
-  me.cherish(you)
-  me.announce(you, "May this journey leads us starward")
-  world.ascend(me, you)
-```
-
-</details>
+> "This will be a romantic story like none has ever come before. You think so too, right?
 
 <!---
 RimuEirnarn/RimuEirnarn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
