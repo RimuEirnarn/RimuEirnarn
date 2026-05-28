@@ -37,7 +37,7 @@ Backend developer with a soft spot for adorable chaos. Former vocational high sc
   <hr style='position: translateX(-2rem);'>
 </div>
 
-> "This will be a romantic story like none has ever come before. You think so too, right?
+> "This will be a romantic story like none has ever come before. You think so too, right?"
 
 <!---
 RimuEirnarn/RimuEirnarn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
