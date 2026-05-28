@@ -34,6 +34,7 @@ Backend developer with a soft spot for adorable chaos. Former vocational high sc
 <div align=right>
   <img alt="Venti" src="https://github.com/RimuEirnarn/RimuEirnarn/raw/main/public/venti-chibi.webp" style="" width=120 height=120>
   <img alt="Furina" src="https://github.com/RimuEirnarn/RimuEirnarn/raw/main/public/furina-chibi.webp" style="" width=120 height=120>
+  <img alt="Cyrene" src="https://github.com/RimuEirnarn/RimuEirnarn/raw/main/public/cyrene-sticker.webp" style="" width=120 height=120>
   <hr style='position: translateX(-2rem);'>
 </div>
 
