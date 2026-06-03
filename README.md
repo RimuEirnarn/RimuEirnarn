@@ -1,6 +1,6 @@
 > `rimu.print_motd()`
 
-The Path shall be lightened, and when we're ready, we'll face everything together as one. Thus, we walk on the Path of <span style="color: #c09c7b">Trailblaze</span>, group together to create a better future.
+The Path shall be lightened, and when we're ready, we'll face everything together as one. Thus, we walk on the Path of $\color{#c09c7b}{\text{Trailblaze}}$, group together to create a better future.
 
 > `rimu.print_info()`
 
@@ -8,7 +8,7 @@ The Path shall be lightened, and when we're ready, we'll face everything togethe
 | ----------- | --------------------------------------- |
 | name        | Rimu Aerisya                            |
 | alt_name    | Rimu Eirnarn                            |
-| affiliation | NekoRisya                               |
+| affiliation | NekoRisya, Nameless                     |
 | species     | Human                                   |
 | langs       | Indonesian, English, Python, JavaScript |
 | status      | College student                         |
