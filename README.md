@@ -11,12 +11,10 @@
 
 > rimu.print_socials()
 
-| Key         | Value                                   |
-| ----------- | --------------------------------------- |
-| Discord     | [![Discord](https://img.shields.io/badge/discord-5965f1?style=for-the-badge)](https://discord.gg/U5y5XcdKG8)         |
-| Instagram   | [![Instagram](https://img.shields.io/badge/instagram-D62976?style=for-the-badge)](https://Instagram.com/RimuEirnarn) |
-| Twitter     | [![Twitter](https://img.shields.io/badge/Twitter-000000?style=for-the-badge)](https://x.com/RimuEirnarn)             |
-| LOCAL       | [![LOCAL](https://img.shields.io/badge/LOCAL-B3EBF2?style=for-the-badge)](https://rimueirnarn.github.io)             |
+[![Discord](https://img.shields.io/badge/discord-5965f1?style=for-the-badge)](https://discord.gg/U5y5XcdKG8)
+[![Instagram](https://img.shields.io/badge/instagram-D62976?style=for-the-badge)](https://Instagram.com/RimuEirnarn)
+[![Twitter](https://img.shields.io/badge/Twitter-000000?style=for-the-badge)](https://x.com/RimuEirnarn)
+[![LOCAL](https://img.shields.io/badge/LOCAL-B3EBF2?style=for-the-badge)](https://rimueirnarn.github.io)
 
 ---
 
