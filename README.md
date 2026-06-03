@@ -1,20 +1,24 @@
-### Introduction
+> `rimu.print_info()`
 
-Rimu Aerisya/Rimu Eirnarn.
+| Key         | Value                                   |
+| ----------- | --------------------------------------- |
+| name        | Rimu Aerisya                            |
+| alt_name    | Rimu Eirnarn                            |
+| affiliation | NekoRisya                               |
+| species     | Human                                   |
+| langs       | Indonesian, English, Python, JavaScript |
+| status      | College student                         |
 
-Backend developer with a soft spot for adorable chaos. Former vocational high schooler, now a college gremlin. Fluent in Python, sarcasm, and the language of cute things.
+> rimu.print_socials()
 
-### Language Preferred
+| Key         | Value                                   |
+| ----------- | --------------------------------------- |
+| Discord     | [![Discord](https://img.shields.io/badge/discord-5965f1?style=for-the-badge)](https://discord.gg/U5y5XcdKG8)         |
+| Instagram   | [![Instagram](https://img.shields.io/badge/instagram-D62976?style=for-the-badge)](https://Instagram.com/RimuEirnarn) |
+| Twitter     | [![Twitter](https://img.shields.io/badge/Twitter-000000?style=for-the-badge)](https://x.com/RimuEirnarn)             |
+| LOCAL       | [![LOCAL](https://img.shields.io/badge/LOCAL-B3EBF2?style=for-the-badge)](https://rimueirnarn.github.io)             |
 
-- 🇮🇩 Indonesia
-- English
-- 🐍 Python!
-
-### Social Media
-
-- Discord: (\@rimueirnarn) / [discord.gg/U5y5XcdKG8](https://discord.gg/U5y5XcdKG8)
-- Instagram: ([\@RimuEirnarn](https://instagram.com/RimuEirnarn))
-- Twitter: ([\@RimuEirnarn](https://twitter.com/RimuEirnarn)).
+---
 
 <details>
 <summary><strong>Statistic (and account statistic)</strong></summary>
