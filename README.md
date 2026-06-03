@@ -13,7 +13,7 @@ The Path shall be lightened, and when we're ready, we'll face everything togethe
 | langs       | Indonesian, English, Python, JavaScript |
 | status      | College student                         |
 
-> rimu.print_socials()
+> `rimu.print_socials()`
 
 [![Discord](https://img.shields.io/badge/discord-5965f1?style=for-the-badge)](https://discord.gg/U5y5XcdKG8)
 [![Instagram](https://img.shields.io/badge/instagram-D62976?style=for-the-badge)](https://Instagram.com/RimuEirnarn)
