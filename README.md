@@ -1,6 +1,6 @@
 <!-- Header -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=C09C7B&center=true&vCenter=true&width=600&lines=The+Path+shall+be+lightened...;We+face+everything+together+as+one.;Walking+the+Path+of+Trailblaze+%E2%9C%A8" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=C09C7B&center=true&vCenter=true&width=600&lines=The+Path+shall+be+lightened...;We+face+everything+together+as+one.;Walking+the+Path+of+Trailblaze" alt="Typing SVG" />
 </div>
 
 ---
@@ -21,7 +21,7 @@
 ![Python](https://img.shields.io/badge/Python-3b4252?style=flat-square&logo=python&logoColor=88c0d0)
 ![JavaScript](https://img.shields.io/badge/JavaScript-3b4252?style=flat-square&logo=javascript&logoColor=ebcb8b)
 ![Node.js](https://img.shields.io/badge/Node.js-3b4252?style=flat-square&logo=node.js&logoColor=a3be8c)
-![FastAPI](https://img.shields.io/badge/FastAPI-3b4252?style=flat-square&logo=fastapi&logoColor=88c0d0)
+![FastAPI](https://img.shields.io/badge/Flask-3b4252?style=flat-square&logo=flask&logoColor=88c0d0)
 ![SQLite](https://img.shields.io/badge/SQLite-3b4252?style=flat-square&logo=sqlite&logoColor=81a1c1)
 ![Raylib](https://img.shields.io/badge/Raylib-3b4252?style=flat-square&logo=raylib&logoColor=bf616a)
 ![Linux](https://img.shields.io/badge/Linux-3b4252?style=flat-square&logo=linux&logoColor=d8dee9)
