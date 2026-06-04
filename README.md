@@ -20,6 +20,11 @@
 
 ![Python](https://img.shields.io/badge/Python-3b4252?style=flat-square&logo=python&logoColor=88c0d0)
 ![JavaScript](https://img.shields.io/badge/JavaScript-3b4252?style=flat-square&logo=javascript&logoColor=ebcb8b)
+![C](https://img.shields.io/badge/C-3b4252?style=flat-square&logo=c&logoColor=00599c)
+![PHP](https://img.shields.io/badge/PHP-3b4252?style=flat-square&logo=php)
+![PowerShell](https://img.shields.io/badge/PowerShell-3b4252?style=flat-square&logo=powershell&logoColor=2671BE)
+![Bash](https://img.shields.io/badge/PowerShell-3b4252?style=flat-square&logo=gnubash)
+![VIM](https://img.shields.io/badge/VIM-3b4252?style=flat-square&logo=vim)
 ![Node.js](https://img.shields.io/badge/Node.js-3b4252?style=flat-square&logo=node.js&logoColor=a3be8c)
 ![FastAPI](https://img.shields.io/badge/Flask-3b4252?style=flat-square&logo=flask&logoColor=88c0d0)
 ![SQLite](https://img.shields.io/badge/SQLite-3b4252?style=flat-square&logo=sqlite&logoColor=81a1c1)
