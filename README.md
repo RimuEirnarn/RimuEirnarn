@@ -27,6 +27,8 @@
 ![Linux](https://img.shields.io/badge/Linux-3b4252?style=flat-square&logo=linux&logoColor=d8dee9)
 ![Obsidian](https://img.shields.io/badge/Obsidian-3b4252?style=flat-square&logo=obsidian&logoColor=b48ead)
 
+> `rimu.print_socials()`
+
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/U5y5XcdKG8)
 [![Instagram](https://img.shields.io/badge/Instagram-D62976?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/RimuEirnarn)
 [![Twitter / X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/RimuEirnarn)
