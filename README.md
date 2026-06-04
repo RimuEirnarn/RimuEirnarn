@@ -1,6 +1,6 @@
 <!-- Header -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=C09C7B&center=true&vCenter=true&width=600&lines=The+Path+shall+be+lightened...;We+face+everything+together+as+one.;Walking+the+Path+of+Trailblaze" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=C09C7B&center=true&vCenter=true&width=600&lines=The+Path+shall+be+lightened...;As+we+face+everything+together+as+one.;Walking+the+Path+of+Trailblaze" alt="Typing SVG" />
 </div>
 
 ---
