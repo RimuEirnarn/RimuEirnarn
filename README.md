@@ -66,3 +66,11 @@
 <br>
 
 > *"This will be a romantic story like none has ever come before. You think so too, right?"*
+
+---
+
+<details>
+  <summary><strong>If you're curious, open this one~</strong></summary>
+  <a href="https://rimueirnarn.pythonanywhere.com/into_the_future.txt"><img alt="A poem" src="https://img.shields.io/badge/A%20Poem-b4ebf2?style=for-the-badge"></a>
+  
+</details>
