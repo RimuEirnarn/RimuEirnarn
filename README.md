@@ -1,13 +1,13 @@
-<!--div align="center">
+<div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=C09C7B&center=true&vCenter=true&width=600&lines=The+Path+shall+be+lightened...;As+we+face+everything+together+as+one.;Walking+the+Path+of+Trailblaze" alt="Typing SVG" />
 </div>
 
---->
+---
 
 > [!IMPORTANT]
 > Data stream is clogged. Connection to OMV Dijang and Astral Express are interrupted. Maybe because Rimu is trapped on Earth?
 
-<!--div align="center">
+<div align="center">
   <img src="https://rimueirnarn.pythonanywhere.com/api/motd.svg" alt="Rimu's MOTD"/>
 </div>
 
@@ -86,4 +86,4 @@
   <a href="https://rimueirnarn.pythonanywhere.com/into_the_future.txt"><img alt="A poem" src="https://img.shields.io/badge/A%20Poem-b4ebf2?style=for-the-badge"></a>
   <a href="https://rimueirnarn.github.io/browse"><img alt="A poem" src="https://img.shields.io/badge/Endfield%20Inspired%20Page-b4ebf2?style=for-the-badge"></a>
   
-</details-->
+</details>
