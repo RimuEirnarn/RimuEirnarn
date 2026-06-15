@@ -10,7 +10,7 @@
 | ------------- | ------------------------------------------ |
 | `name`        | Rimu Aerisya                               |
 | `alt_name`    | Rimu Eirnarn                               |
-| `affiliation` | NekoRisya · Nameless· Endfielders          |
+| `affiliation` | NekoRisya · Nameless · Endfielders         |
 | `species`     | Human (allegedly)                          |
 | `langs`       | Indonesian · English · Python · JavaScript |
 | `status`      | College student                            |
