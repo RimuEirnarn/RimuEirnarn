@@ -54,7 +54,7 @@
 ---
 
 > [!IMPORTANT]
-> Data stream is clogged. Connection to OMV Dijang and Astral Express is interrupted. Maybe because Rimu is trapped in earth?
+> Data stream is clogged. Connection to OMV Dijang and Astral Express are interrupted. Maybe because Rimu is trapped in earth?
 
 ---
 
