@@ -56,6 +56,8 @@
 > [!IMPORTANT]
 > Data stream is clogged. Connection to OMV Dijang and Astral Express are interrupted. Maybe because Rimu is trapped on Earth?
 
+![motd](https://rimueirnarn.pythonanywhere.com/api/motd.svg)
+
 ---
 
 <div align="right">
