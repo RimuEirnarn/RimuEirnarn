@@ -6,14 +6,14 @@
 
 > `rimu.print_info()`
 
-| Key           | Value                                      |
-| ------------- | ------------------------------------------ |
-| `name`        | Rimu Aerisya                               |
-| `alt_name`    | Rimu Eirnarn                               |
-| `affiliation` | NekoRisya · Nameless · Endfielders         |
-| `species`     | Human (allegedly)                          |
-| `langs`       | Indonesian · English · Python · JavaScript |
-| `status`      | College student                            |
+| Key           | Value                                       |
+| ------------- | ------------------------------------------- |
+| `name`        | Rimu Aerisya                                |
+| `alt_name`    | Rimu Eirnarn                                |
+| `affiliation` | NekoRisya · Nameless · Endfield Industries        |
+| `species`     | Human (allegedly)                           |
+| `langs`       | Indonesian · English · Python · JavaScript  |
+| `status`      | College student                             |
 
 > `rimu.print_skills()`
 
