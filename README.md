@@ -4,6 +4,15 @@
 
 ---
 
+> [!IMPORTANT]
+> Data stream is clogged. Connection to OMV Dijang and Astral Express are interrupted. Maybe because Rimu is trapped on Earth?
+
+<div align="center">
+  <img src="https://rimueirnarn.pythonanywhere.com/api/motd.svg" alt="Rimu's MOTD"/>
+</div>
+
+---
+
 > `rimu.print_info()`
 
 | Key           | Value                                       |
@@ -25,7 +34,7 @@
 ![Bash](https://img.shields.io/badge/Bash-3b4252?style=flat-square&logo=gnubash)
 ![VIM](https://img.shields.io/badge/VIM-3b4252?style=flat-square&logo=vim)
 ![Node.js](https://img.shields.io/badge/Node.js-3b4252?style=flat-square&logo=node.js&logoColor=a3be8c)
-![FastAPI](https://img.shields.io/badge/Flask-3b4252?style=flat-square&logo=flask&logoColor=88c0d0)
+![Flask](https://img.shields.io/badge/Flask-3b4252?style=flat-square&logo=flask&logoColor=88c0d0)
 ![SQLite](https://img.shields.io/badge/SQLite-3b4252?style=flat-square&logo=sqlite&logoColor=81a1c1)
 ![Raylib](https://img.shields.io/badge/Raylib-3b4252?style=flat-square&logo=raylib&logoColor=bf616a)
 ![Linux](https://img.shields.io/badge/Linux-3b4252?style=flat-square&logo=linux&logoColor=d8dee9)
@@ -37,6 +46,10 @@
 [![Instagram](https://img.shields.io/badge/Instagram-D62976?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/RimuEirnarn)
 [![Twitter / X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/RimuEirnarn)
 [![Site](https://img.shields.io/badge/Website-B3EBF2?style=for-the-badge&logo=githubpages&logoColor=1a1a2e)](https://rimueirnarn.github.io)
+
+> `rimu.print_activity()`
+
+![activity](https://rimueirnarn.pythonanywhere.com/api/status.svg)
 
 ---
 
@@ -50,13 +63,6 @@
   <img width="395" alt="metrics-language" src="https://gist.githubusercontent.com/RimuEirnarn/31830b25b9d88dfc1b33d87536cd0fad/raw/languages.svg" />
 </div>
 </details>
-
----
-
-> [!IMPORTANT]
-> Data stream is clogged. Connection to OMV Dijang and Astral Express are interrupted. Maybe because Rimu is trapped on Earth?
-
-![motd](https://rimueirnarn.pythonanywhere.com/api/motd.svg)
 
 ---
 
