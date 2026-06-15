@@ -54,7 +54,7 @@
 ---
 
 > [!IMPORTANT]
-> Data stream is clogged. Connection to OMV Dijang and Astral Express are interrupted. Maybe because Rimu is trapped in earth?
+> Data stream is clogged. Connection to OMV Dijang and Astral Express are interrupted. Maybe because Rimu is trapped on Earth?
 
 ---
 
@@ -76,5 +76,6 @@
 <details>
   <summary><strong>If you're curious, open this one~</strong></summary>
   <a href="https://rimueirnarn.pythonanywhere.com/into_the_future.txt"><img alt="A poem" src="https://img.shields.io/badge/A%20Poem-b4ebf2?style=for-the-badge"></a>
+  <a href="https://rimueirnarn.github.io/browse"><img alt="A poem" src="https://img.shields.io/badge/Endfield%20Inspired%20Page-b4ebf2?style=for-the-badge"></a>
   
 </details>
