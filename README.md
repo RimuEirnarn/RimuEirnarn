@@ -1,4 +1,4 @@
-> [!INFO]
+> [!IMPORTANT]
 > Please wait for a moment~♡
 
 
