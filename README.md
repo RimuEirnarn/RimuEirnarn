@@ -4,6 +4,8 @@
 
 ---
 
+> `rimu.print_motd()`
+
 > [!IMPORTANT]
 > Data stream is clogged. Connection to OMV Dijang and Astral Express are interrupted. Maybe because Rimu is trapped on Earth?
 
