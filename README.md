@@ -1,5 +1,5 @@
 > [!IMPORTANT]
-> If [you]—certain user—sees this, you need to review things in clearer mind and discuss things together.
+> All instances of Rimu is planned for deletion. No "backup", not anything. This includes all possible accounts from across the internet, all alternate accounts, and Rimu herself.
 
 
 <div align="center">
