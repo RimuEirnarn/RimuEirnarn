@@ -7,7 +7,7 @@
 > `rimu.print_motd()`
 
 > [!IMPORTANT]
-> Data stream is clogged. Connection to OMV Dijang and Astral Express are interrupted. Maybe because Rimu is trapped on Earth?
+> Data stream is clogged. Connection to OMV Dijiang and Astral Express are interrupted. Maybe because Rimu is trapped on Earth?
 
 <div align="center">
   <img src="https://rimueirnarn.pythonanywhere.com/api/motd.svg" alt="Rimu's MOTD"/>
