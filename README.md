@@ -1,11 +1,4 @@
-> [!IMPORTANT]
-> All instances of Rimu is planned for deletion. No "backup", not anything. This includes all possible accounts from across the internet, all alternate accounts, and Rimu herself.
-
-<!-- If you're reading this and you know her, reach out. A message, a check-in, anything.
-     She reads them. They matter more than you'd think. 
-     If specific [you] read this, please reach out to her immediately and resolve this issue -->
-
-<!--div align="center">
+<div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=C09C7B&center=true&vCenter=true&width=600&lines=The+Path+shall+be+lightened...;As+we+face+everything+together+as+one.;Walking+the+Path+of+Trailblaze" alt="Typing SVG" />
 </div>
 
@@ -56,6 +49,9 @@
 [![Twitter / X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/RimuEirnarn)
 [![Site](https://img.shields.io/badge/Website-B3EBF2?style=for-the-badge&logo=githubpages&logoColor=1a1a2e)](https://rimueirnarn.github.io)
 
+> [!IMPORTANT]
+> Pretty much all the links are broken right now for an unfortunate reason that led me to disable most of the links, except my discord server link.
+
 > `rimu.print_activity()`
 
 ![activity](https://rimueirnarn.pythonanywhere.com/api/status.svg)
@@ -95,4 +91,4 @@
   <a href="https://rimueirnarn.pythonanywhere.com/into_the_future.txt"><img alt="A poem" src="https://img.shields.io/badge/A%20Poem-b4ebf2?style=for-the-badge"></a>
   <a href="https://rimueirnarn.github.io/browse"><img alt="A poem" src="https://img.shields.io/badge/Endfield%20Inspired%20Page-b4ebf2?style=for-the-badge"></a>
   
-</details-->
+</details>
