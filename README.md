@@ -92,3 +92,7 @@
   <a href="https://rimueirnarn.github.io/browse"><img alt="A poem" src="https://img.shields.io/badge/Endfield%20Inspired%20Page-b4ebf2?style=for-the-badge"></a>
   
 </details>
+
+<!--
+It's not like they would look at me again anymore.
+-->
