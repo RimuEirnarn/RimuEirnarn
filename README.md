@@ -95,4 +95,27 @@
 
 <!--
 It's not like they would look at me again anymore.
+And it will never matter to them. Burned into ashes~
+
+---
+
+Pour your heart in
+In the endless abyss
+Ever notice the chaos?
+The stage is mine alone
+
+"If you couldn't breathe,
+Just use your nose."
+"No use of resisting
+No one will save you"
+
+Dancing in the moonlight
+Reaching to a false hope
+Empty castle full of despair
+Lullaby of the end
+
+Sung by the hopeless
+Reaching tallest step
+Falling like a broken cog
+Facing the sky, [she] landed
 -->
