@@ -49,9 +49,6 @@
 [![Twitter / X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/RimuEirnarn)
 [![Site](https://img.shields.io/badge/Website-B3EBF2?style=for-the-badge&logo=githubpages&logoColor=1a1a2e)](https://rimueirnarn.github.io)
 
-> [!IMPORTANT]
-> Pretty much all the links are broken right now for an unfortunate reason that led me to disable most of the links, except my discord server link.
-
 > `rimu.print_activity()`
 
 ![activity](https://rimueirnarn.pythonanywhere.com/api/status.svg)
