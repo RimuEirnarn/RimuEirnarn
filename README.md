@@ -25,6 +25,7 @@
 | `species`     | Human (allegedly)                           |
 | `langs`       | Indonesian · English · Python · JavaScript  |
 | `status`      | College student                             |
+| `path`        | Trailblaze (larping)                        |
 
 > `rimu.print_skills()`
 
