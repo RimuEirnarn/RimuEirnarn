@@ -1,11 +1,10 @@
 <!--
 Ad astra per aspera ad infinitum.
 
-Now, let us carve out new path and extend the rails into the unkonwn. Extend thy hands.
+Now, let us carve out new path and extend the rails into the unknown. Extend thy hands.
 
 "Explore, Understand, Establish, and Connect. Together, let us blaze a trail for the destiny of this world."
-
-— Welt Yang, https://honkai-star-rail.fandom.com/wiki/Traverse_Stars_and_Stride_Cosmos
+— Welt Yang
 -->
 
 <div align="center">
