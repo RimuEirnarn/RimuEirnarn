@@ -126,4 +126,6 @@ Facing the sky, [she] landed
 Behind everything, there's only cry. In my own room, waiting for the death I deserve. I can't take it anymore, the world never accepts me, nobody is there. I'm scared to face the world, and everything has fallen to its place. Motionless, bearing witness of my body. I lay flat on the bed, time passes. I don't remember when I felt hungry, or whether my tears has dried. This body will soon decay anyway.
 
 There's nothing to be done, every choices led to the same result. If anything, I'm hastening it. So, I'll just stop. Maybe, if I don't exists, everything will be better?
+
+Then again, why are you reading this comment?
 -->
