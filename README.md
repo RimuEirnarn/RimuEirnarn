@@ -91,7 +91,7 @@ Ad astra per aspera ad infinitum.
 <details>
   <summary><strong>If you're curious, open this one~</strong></summary>
   <!--a href="https://github.com/RimuEirnarn/13.AAATOCwgJQwpCgc2HyQeDTUo"><img alt="A poem" src="https://img.shields.io/badge/A%20Poem-b4ebf2?style=for-the-badge"></a-->
-  <a href="https://rimueirnarn.github.io/browse"><img alt="A poem" src="https://img.shields.io/badge/Endfield%20Inspired%20Page-b4ebf2?style=for-the-badge"></a>
+  <a href="https://rimueirnarn.github.io/lunaeri"><img alt="A poem" src="https://img.shields.io/badge/Endfield%20Inspired%20Page-b4ebf2?style=for-the-badge"></a>
   
 </details>
 
